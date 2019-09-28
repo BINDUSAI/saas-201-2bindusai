@@ -1,0 +1,84 @@
+body{
+    background-image:url("image.jpg");
+    background-size:cover;
+   }
+ p{
+    margin:30px;
+    text-align:center;
+ } 
+ p.names{
+    margin:10px;
+    text-align:left;
+ } 
+ button.ind{
+    width:360px;
+    height:60px;
+    border-radius:10px;
+    color:#ffffff;
+    background: #119309;
+    font-size:30px;
+    margin:10px;
+    padding:10px;
+ } 
+ button.view{
+    width:360px;
+    height:60px;
+    border-radius:2px;
+    color:#ffffff;
+    background: #119309;
+    font-size:30px;
+    margin:15px;
+ }
+ h1{
+    font-size:50px;
+    text-align:center;
+    padding:20px;
+ }
+ h2{
+     padding:20px;
+ }
+input{
+    width:1135px;
+    height:30px;
+    border-radius:3px;
+    margin:10px;
+}
+select{
+    width:1135px;
+    height:30px;
+    border-radius:3px;
+    margin:10px;
+}
+input.register{
+    width:70px;
+    height:30px;
+    border-radius:6px;
+    color:#ffffff;
+    background:#119309;
+    margin-right:200px;
+    float:right;
+}
+button.indexlink{
+    width:70px;
+    height:30px;
+    border-radius:6px;
+    color:#000000;
+    margin-right:10px;
+    float:right;
+    margin-top:10px;
+}
+p.back{
+    font-size:15px;
+}
+p.details{
+    font-size:35px;
+}
+label{
+margin-bottom:50px;
+
+margin-top:50px;
+
+
+
+}
+    
